@@ -1,0 +1,6 @@
+root_cause_id,category,description,severity_level
+1,Logistics,Carrier Delay,Medium
+2,Inventory,Stockout,High
+3,IT,IT Outage,Critical
+4,Support,Customer Escalation,Medium
+5,Vendor,Vendor Delay,High

@@ -1,0 +1,1001 @@
+product_id,category,unit_price,vendor_id,product_name
+1,Toys,268.92,22,Dart Gun
+2,Electronics,622.76,189,4K Smart TV
+3,Toys,799.78,85,Action Figure
+4,Food,514.57,25,Protein Shake
+5,Clothing,856.67,81,Leather Jacket
+6,Electronics,605.89,79,Bluetooth Speaker
+7,Clothing,635.61,169,Formal Shirt
+8,Electronics,709.1,7,Wireless Headphones
+9,Food,861.38,59,Fruit Jam
+10,Electronics,104.17,200,Smartphone
+11,Food,453.3,195,Granola Bar
+12,Clothing,966.69,33,Sports Tracksuit
+13,Furniture,188.8,193,Recliner Sofa
+14,Toys,310.1,100,Dart Gun
+15,Clothing,613.84,104,Formal Shirt
+16,Furniture,872.09,60,Recliner Sofa
+17,Clothing,187.48,81,Slim Fit Jeans
+18,Clothing,103.63,122,Slim Fit Jeans
+19,Electronics,718.32,58,Bluetooth Speaker
+20,Food,637.57,44,Fruit Jam
+21,Food,343.95,121,Olive Oil
+22,Electronics,961.85,48,Smartphone
+23,Electronics,603.23,125,Laptop
+24,Clothing,697.07,165,Denim Shorts
+25,Food,440.9,153,Almond Butter
+26,Clothing,929.43,153,Wool Sweater
+27,Furniture,348.47,57,Nightstand
+28,Furniture,773.91,13,Nightstand
+29,Electronics,205,77,Smartphone
+30,Food,584.01,12,Protein Shake
+31,Furniture,620.01,108,Bookshelf
+32,Food,269.52,191,Granola Bar
+33,Food,391.4,190,Protein Shake
+34,Toys,260.83,116,Lego City Kit
+35,Furniture,860.52,28,Recliner Sofa
+36,Furniture,691.47,183,Nightstand
+37,Clothing,501.79,116,Denim Shorts
+38,Clothing,600.38,42,Hoodie
+39,Food,409.64,189,Olive Oil
+40,Electronics,485.87,80,Smartwatch
+41,Clothing,657.43,38,Denim Shorts
+42,Clothing,290.33,81,Sports Tracksuit
+43,Food,220.69,109,Fruit Jam
+44,Furniture,950.01,114,Dining Set
+45,Clothing,313.17,108,Denim Shorts
+46,Electronics,545.7,133,Smartwatch
+47,Food,785.37,84,Granola Bar
+48,Furniture,600.48,176,Nightstand
+49,Toys,671.39,163,Remote Control Car
+50,Electronics,247.09,48,Laptop
+51,Furniture,455.44,14,Wooden Coffee Table
+52,Food,721.21,54,Organic Honey
+53,Toys,288.81,154,Dart Gun
+54,Electronics,535.2,118,Laptop
+55,Clothing,630.32,109,Wool Sweater
+56,Clothing,810.4,171,Formal Shirt
+57,Electronics,294.71,42,Bluetooth Speaker
+58,Clothing,980.28,95,Formal Shirt
+59,Food,970.68,146,Protein Shake
+60,Electronics,111.06,103,Gaming Console
+61,Electronics,431.18,183,Tablet
+62,Clothing,161.06,50,Sports Tracksuit
+63,Electronics,385.52,125,Smartphone
+64,Toys,646.36,86,Plush Dinosaur
+65,Electronics,647.86,149,Tablet
+66,Clothing,187,162,Hoodie
+67,Clothing,709.41,40,Sports Tracksuit
+68,Clothing,861.7,119,Leather Jacket
+69,Clothing,668.05,111,Slim Fit Jeans
+70,Food,378.97,30,Instant Noodles
+71,Clothing,102.25,198,Leather Jacket
+72,Toys,683.57,117,Drawing Kit
+73,Electronics,709.98,25,Smartwatch
+74,Furniture,737.87,197,Recliner Sofa
+75,Furniture,135.33,29,Dining Set
+76,Food,564.8,67,Almond Butter
+77,Furniture,472.09,185,Wooden Coffee Table
+78,Clothing,790.61,47,Slim Fit Jeans
+79,Furniture,750.42,105,Queen Bed Frame
+80,Toys,955.59,145,Lego City Kit
+81,Clothing,907.76,177,Slim Fit Jeans
+82,Furniture,602.21,109,Bookshelf
+83,Clothing,982.43,50,Slim Fit Jeans
+84,Food,235.19,90,Instant Noodles
+85,Toys,106.44,133,Lego City Kit
+86,Electronics,197.05,13,Smartwatch
+87,Clothing,419.6,191,Sports Tracksuit
+88,Toys,779.73,39,Remote Control Car
+89,Food,444.76,196,Fruit Jam
+90,Food,802.54,173,Instant Noodles
+91,Toys,768.51,17,Lego City Kit
+92,Furniture,814.91,187,Wooden Coffee Table
+93,Toys,268.55,99,Action Figure
+94,Furniture,564.43,80,Nightstand
+95,Furniture,741.42,59,Office Chair
+96,Toys,355.76,96,Lego City Kit
+97,Food,854.22,122,Instant Noodles
+98,Electronics,801.38,136,Smartwatch
+99,Electronics,207.89,30,Smartwatch
+100,Toys,296.1,131,Building Blocks Set
+101,Clothing,313.64,145,Wool Sweater
+102,Toys,890.63,123,Lego City Kit
+103,Electronics,268.05,51,Wireless Headphones
+104,Toys,659.89,152,Building Blocks Set
+105,Food,158.42,80,Almond Butter
+106,Electronics,597.25,192,Smartwatch
+107,Electronics,227.13,74,4K Smart TV
+108,Electronics,617.95,123,Power Bank
+109,Food,431.02,111,Fruit Jam
+110,Electronics,645.11,199,Bluetooth Speaker
+111,Clothing,455,112,Cotton T-Shirt
+112,Electronics,868.87,177,Wireless Headphones
+113,Toys,781.28,20,Dart Gun
+114,Clothing,860.23,29,Leather Jacket
+115,Furniture,299.85,10,Bookshelf
+116,Electronics,233.93,9,Tablet
+117,Furniture,601.6,199,Office Chair
+118,Furniture,885.55,108,Wooden Coffee Table
+119,Food,199.56,63,Protein Shake
+120,Toys,310.5,33,Plush Dinosaur
+121,Toys,771.4,152,Plush Dinosaur
+122,Furniture,518.82,80,Bookshelf
+123,Food,643.12,32,Protein Shake
+124,Clothing,632.58,4,Formal Shirt
+125,Electronics,471.12,190,Bluetooth Speaker
+126,Clothing,735.13,78,Slim Fit Jeans
+127,Electronics,867.04,126,Wireless Headphones
+128,Furniture,916.98,119,Dining Set
+129,Food,141.77,22,Granola Bar
+130,Food,598.25,151,Granola Bar
+131,Toys,136.33,26,Plush Dinosaur
+132,Toys,910.84,49,Plush Dinosaur
+133,Clothing,486.34,172,Cotton T-Shirt
+134,Toys,910.47,150,Lego City Kit
+135,Electronics,268.92,108,Laptop
+136,Food,246.13,195,Olive Oil
+137,Food,917.49,170,Granola Bar
+138,Furniture,944.54,52,Dining Set
+139,Furniture,790.11,145,Wooden Coffee Table
+140,Clothing,299.82,142,Denim Shorts
+141,Furniture,254.79,64,Bookshelf
+142,Electronics,773.21,173,Bluetooth Speaker
+143,Toys,671.3,192,Building Blocks Set
+144,Toys,884.87,158,Action Figure
+145,Clothing,349.13,141,Formal Shirt
+146,Toys,365.82,154,Building Blocks Set
+147,Food,758.48,160,Protein Shake
+148,Toys,341.08,174,Drawing Kit
+149,Furniture,516.14,51,Wooden Coffee Table
+150,Food,568.13,34,Almond Butter
+151,Furniture,702.27,108,Recliner Sofa
+152,Furniture,409.95,116,Office Chair
+153,Clothing,872.5,28,Sports Tracksuit
+154,Clothing,462.1,19,Slim Fit Jeans
+155,Food,137.24,176,Olive Oil
+156,Toys,160.3,98,Puzzle Board
+157,Electronics,974.42,72,Smartphone
+158,Toys,659.84,162,Plush Dinosaur
+159,Food,541.84,106,Instant Noodles
+160,Electronics,882.71,144,4K Smart TV
+161,Furniture,745.2,71,Recliner Sofa
+162,Furniture,263.25,27,Dining Set
+163,Electronics,106.56,51,Wireless Headphones
+164,Furniture,983.92,84,Recliner Sofa
+165,Toys,666.29,54,Puzzle Board
+166,Clothing,529.37,123,Sports Tracksuit
+167,Toys,950.19,17,Lego City Kit
+168,Furniture,432.29,72,Nightstand
+169,Clothing,750.3,196,Slim Fit Jeans
+170,Toys,703.1,114,Dart Gun
+171,Furniture,709.32,95,Office Chair
+172,Toys,709.42,129,Lego City Kit
+173,Furniture,109.38,105,Recliner Sofa
+174,Food,841.87,14,Granola Bar
+175,Electronics,930.66,135,Wireless Headphones
+176,Furniture,504.41,64,Recliner Sofa
+177,Toys,604.44,200,Action Figure
+178,Furniture,392.24,136,Wooden Coffee Table
+179,Furniture,806.56,182,Office Chair
+180,Toys,762.94,152,Plush Dinosaur
+181,Toys,764.65,183,Remote Control Car
+182,Clothing,761.43,129,Wool Sweater
+183,Furniture,296.69,200,Nightstand
+184,Food,201.27,69,Granola Bar
+185,Electronics,379.68,32,4K Smart TV
+186,Furniture,617.84,1,Nightstand
+187,Toys,459.57,194,Building Blocks Set
+188,Clothing,324.32,170,Formal Shirt
+189,Furniture,120.06,137,Dining Set
+190,Food,209.02,74,Protein Shake
+191,Toys,194.8,152,Drawing Kit
+192,Food,960.98,105,Almond Butter
+193,Food,800.94,114,Granola Bar
+194,Electronics,210.48,147,Power Bank
+195,Electronics,520.49,51,Laptop
+196,Furniture,689.04,81,Wooden Coffee Table
+197,Electronics,964.93,2,Gaming Console
+198,Furniture,342.07,10,Office Chair
+199,Furniture,337.64,197,Queen Bed Frame
+200,Toys,611.43,103,Puzzle Board
+201,Toys,871.64,134,Lego City Kit
+202,Clothing,351.66,190,Formal Shirt
+203,Electronics,213.24,66,Power Bank
+204,Clothing,339.52,8,Slim Fit Jeans
+205,Food,504.16,68,Organic Honey
+206,Furniture,423.96,187,Nightstand
+207,Furniture,875.09,50,Wooden Coffee Table
+208,Toys,948.65,95,Remote Control Car
+209,Food,440.6,36,Olive Oil
+210,Furniture,841.08,136,Queen Bed Frame
+211,Furniture,161.75,95,Nightstand
+212,Food,598.33,145,Almond Butter
+213,Food,848.53,187,Olive Oil
+214,Furniture,476.76,78,Nightstand
+215,Food,229.09,136,Almond Butter
+216,Electronics,355.68,122,4K Smart TV
+217,Food,542.72,89,Organic Honey
+218,Clothing,859.15,43,Sports Tracksuit
+219,Clothing,773.74,63,Formal Shirt
+220,Furniture,175.22,81,Queen Bed Frame
+221,Furniture,591.54,113,Nightstand
+222,Toys,885.12,12,Remote Control Car
+223,Food,619.4,84,Protein Shake
+224,Clothing,158.44,98,Formal Shirt
+225,Toys,840.81,56,Remote Control Car
+226,Furniture,916.09,49,Nightstand
+227,Electronics,450.27,180,Laptop
+228,Food,379.12,139,Almond Butter
+229,Toys,589.02,27,Drawing Kit
+230,Electronics,985.68,190,Gaming Console
+231,Furniture,853.72,137,Bookshelf
+232,Clothing,829.95,82,Hoodie
+233,Toys,273.83,36,Action Figure
+234,Toys,905.65,174,Dart Gun
+235,Furniture,600.35,118,Recliner Sofa
+236,Furniture,925.19,157,Queen Bed Frame
+237,Clothing,686.54,196,Sports Tracksuit
+238,Clothing,850.75,79,Cotton T-Shirt
+239,Clothing,248.97,41,Formal Shirt
+240,Electronics,735.87,28,Tablet
+241,Electronics,331.53,192,Wireless Headphones
+242,Furniture,252.01,152,Nightstand
+243,Toys,616.58,101,Building Blocks Set
+244,Electronics,642.47,144,Wireless Headphones
+245,Furniture,541.56,22,Dining Set
+246,Electronics,180.14,47,Wireless Headphones
+247,Clothing,320.27,17,Sports Tracksuit
+248,Furniture,311.91,129,Wooden Coffee Table
+249,Clothing,382.33,159,Hoodie
+250,Food,665.26,89,Fruit Jam
+251,Toys,494.19,12,Dart Gun
+252,Clothing,971.55,20,Denim Shorts
+253,Toys,114.26,147,Puzzle Board
+254,Furniture,294.31,5,Queen Bed Frame
+255,Food,616.07,15,Organic Honey
+256,Toys,891.41,25,Action Figure
+257,Electronics,130.52,163,Gaming Console
+258,Furniture,895.25,108,Dining Set
+259,Food,556.55,55,Granola Bar
+260,Electronics,806.94,63,Gaming Console
+261,Electronics,953.79,47,Smartphone
+262,Food,293.86,195,Protein Shake
+263,Clothing,629.12,116,Denim Shorts
+264,Food,895.3,64,Organic Honey
+265,Food,859.97,22,Organic Honey
+266,Food,568.87,197,Fruit Jam
+267,Toys,954.54,106,Action Figure
+268,Clothing,737.6,77,Slim Fit Jeans
+269,Furniture,571.7,74,Dining Set
+270,Electronics,152.11,80,4K Smart TV
+271,Toys,538.58,127,Puzzle Board
+272,Clothing,479.71,130,Hoodie
+273,Food,374.73,126,Organic Honey
+274,Toys,948.6,114,Lego City Kit
+275,Toys,933.13,115,Remote Control Car
+276,Electronics,403.56,153,Laptop
+277,Furniture,492.19,61,Dining Set
+278,Clothing,776.64,5,Sports Tracksuit
+279,Clothing,851.55,28,Denim Shorts
+280,Clothing,199.07,81,Wool Sweater
+281,Food,541.72,194,Granola Bar
+282,Food,923.05,15,Granola Bar
+283,Toys,698.13,183,Drawing Kit
+284,Furniture,588.67,120,Wooden Coffee Table
+285,Electronics,746.24,38,4K Smart TV
+286,Electronics,695.29,151,Laptop
+287,Furniture,948.02,14,Recliner Sofa
+288,Clothing,921.37,32,Cotton T-Shirt
+289,Furniture,458,44,Nightstand
+290,Electronics,128.82,198,Power Bank
+291,Food,399.41,92,Almond Butter
+292,Furniture,282.6,118,Queen Bed Frame
+293,Toys,218.4,116,Lego City Kit
+294,Food,899.15,123,Instant Noodles
+295,Toys,738.94,116,Dart Gun
+296,Toys,129.32,186,Lego City Kit
+297,Furniture,927.78,102,Bookshelf
+298,Toys,912.71,4,Puzzle Board
+299,Clothing,954.45,115,Hoodie
+300,Furniture,846.89,190,Nightstand
+301,Electronics,170.99,188,Power Bank
+302,Clothing,660.52,59,Wool Sweater
+303,Food,174.78,75,Almond Butter
+304,Furniture,742.06,157,Bookshelf
+305,Electronics,277.31,147,Laptop
+306,Electronics,942.23,145,Wireless Headphones
+307,Furniture,940.75,4,Recliner Sofa
+308,Clothing,635.14,172,Formal Shirt
+309,Electronics,777.41,4,4K Smart TV
+310,Furniture,872.34,187,Wooden Coffee Table
+311,Furniture,450.23,140,Bookshelf
+312,Toys,621.27,47,Drawing Kit
+313,Furniture,258.42,135,Office Chair
+314,Electronics,986.95,140,Gaming Console
+315,Toys,936.46,71,Remote Control Car
+316,Electronics,535.08,54,Smartphone
+317,Clothing,598,186,Wool Sweater
+318,Clothing,493.03,63,Cotton T-Shirt
+319,Electronics,101.5,143,Laptop
+320,Food,307,165,Organic Honey
+321,Food,191.48,56,Protein Shake
+322,Food,390.61,73,Almond Butter
+323,Electronics,312.61,97,Smartphone
+324,Furniture,785.48,102,Queen Bed Frame
+325,Toys,554.32,80,Dart Gun
+326,Furniture,835.29,31,Queen Bed Frame
+327,Electronics,672.13,15,Laptop
+328,Furniture,690.6,130,Dining Set
+329,Clothing,888.62,13,Cotton T-Shirt
+330,Toys,862.47,5,Action Figure
+331,Electronics,156.97,176,Gaming Console
+332,Toys,620.51,161,Building Blocks Set
+333,Food,471.78,32,Fruit Jam
+334,Food,639.67,181,Protein Shake
+335,Clothing,876.38,106,Slim Fit Jeans
+336,Electronics,110.84,21,Tablet
+337,Food,109.87,194,Olive Oil
+338,Toys,156.3,189,Drawing Kit
+339,Toys,887.4,182,Remote Control Car
+340,Clothing,418.13,41,Slim Fit Jeans
+341,Food,434.11,87,Olive Oil
+342,Furniture,410.86,166,Dining Set
+343,Food,307.87,161,Granola Bar
+344,Clothing,134.98,136,Cotton T-Shirt
+345,Food,915.86,36,Instant Noodles
+346,Electronics,309.59,33,Bluetooth Speaker
+347,Clothing,904.55,29,Slim Fit Jeans
+348,Furniture,960.14,95,Queen Bed Frame
+349,Toys,618.99,57,Plush Dinosaur
+350,Food,435.05,72,Fruit Jam
+351,Toys,789.22,189,Building Blocks Set
+352,Clothing,122.84,90,Leather Jacket
+353,Toys,935.98,114,Puzzle Board
+354,Electronics,467.12,183,Gaming Console
+355,Clothing,377.74,180,Cotton T-Shirt
+356,Clothing,214.24,115,Formal Shirt
+357,Food,959.65,171,Instant Noodles
+358,Clothing,829.93,126,Slim Fit Jeans
+359,Electronics,751.55,124,Bluetooth Speaker
+360,Food,937.87,154,Fruit Jam
+361,Electronics,963.85,116,Gaming Console
+362,Furniture,341.6,103,Wooden Coffee Table
+363,Food,807.87,2,Granola Bar
+364,Clothing,790.28,183,Wool Sweater
+365,Clothing,601.58,90,Wool Sweater
+366,Clothing,235.38,18,Slim Fit Jeans
+367,Furniture,946.31,178,Dining Set
+368,Electronics,383.84,45,Laptop
+369,Clothing,620.99,15,Leather Jacket
+370,Toys,117.44,135,Drawing Kit
+371,Clothing,486.23,155,Denim Shorts
+372,Food,655.2,40,Organic Honey
+373,Food,442.86,17,Protein Shake
+374,Toys,529.4,160,Puzzle Board
+375,Furniture,272.82,144,Nightstand
+376,Food,415.2,191,Instant Noodles
+377,Furniture,751.03,78,Recliner Sofa
+378,Furniture,972.74,188,Bookshelf
+379,Toys,521.91,105,Puzzle Board
+380,Food,717.44,82,Almond Butter
+381,Clothing,978.57,86,Sports Tracksuit
+382,Furniture,797.31,180,Office Chair
+383,Furniture,109.12,80,Wooden Coffee Table
+384,Food,941.99,49,Almond Butter
+385,Food,879.91,49,Instant Noodles
+386,Toys,344,154,Plush Dinosaur
+387,Electronics,263.4,179,4K Smart TV
+388,Electronics,909.3,43,Bluetooth Speaker
+389,Electronics,719.82,70,Gaming Console
+390,Furniture,313.29,71,Wooden Coffee Table
+391,Toys,742.49,9,Dart Gun
+392,Electronics,640.2,172,Bluetooth Speaker
+393,Food,378.29,192,Almond Butter
+394,Furniture,601.1,90,Wooden Coffee Table
+395,Furniture,574.54,2,Office Chair
+396,Food,558.8,164,Instant Noodles
+397,Toys,565.63,3,Puzzle Board
+398,Toys,100.36,182,Building Blocks Set
+399,Electronics,341.77,149,4K Smart TV
+400,Food,487.78,195,Fruit Jam
+401,Clothing,214.53,9,Wool Sweater
+402,Toys,774.25,12,Action Figure
+403,Electronics,862.2,200,Laptop
+404,Furniture,835.99,165,Nightstand
+405,Toys,513.67,165,Lego City Kit
+406,Clothing,721.63,104,Formal Shirt
+407,Furniture,169.2,195,Nightstand
+408,Furniture,279.46,56,Queen Bed Frame
+409,Food,142.25,105,Protein Shake
+410,Food,968.9,63,Granola Bar
+411,Toys,616.88,154,Puzzle Board
+412,Clothing,257.72,46,Wool Sweater
+413,Food,736.79,181,Olive Oil
+414,Electronics,540.22,60,4K Smart TV
+415,Furniture,490.83,32,Dining Set
+416,Electronics,922.11,91,Tablet
+417,Furniture,737.39,190,Queen Bed Frame
+418,Electronics,721.59,175,Power Bank
+419,Furniture,187.58,61,Wooden Coffee Table
+420,Food,182.83,94,Almond Butter
+421,Electronics,697.99,132,Gaming Console
+422,Toys,240.84,130,Dart Gun
+423,Toys,507.93,151,Dart Gun
+424,Clothing,612.82,55,Slim Fit Jeans
+425,Clothing,449.28,41,Formal Shirt
+426,Clothing,176.64,196,Slim Fit Jeans
+427,Electronics,769.02,165,Laptop
+428,Furniture,896.53,139,Office Chair
+429,Clothing,245.51,164,Hoodie
+430,Food,868.69,15,Organic Honey
+431,Toys,809.83,101,Action Figure
+432,Toys,607.47,67,Plush Dinosaur
+433,Food,636.49,112,Almond Butter
+434,Toys,686.41,158,Action Figure
+435,Electronics,572.29,57,Wireless Headphones
+436,Food,859.91,190,Protein Shake
+437,Electronics,526.69,33,Tablet
+438,Toys,592.35,65,Action Figure
+439,Food,133.09,1,Protein Shake
+440,Food,262.06,131,Almond Butter
+441,Food,913.4,9,Almond Butter
+442,Toys,209.41,32,Plush Dinosaur
+443,Toys,913.64,77,Drawing Kit
+444,Toys,672.33,45,Lego City Kit
+445,Clothing,928.11,95,Slim Fit Jeans
+446,Clothing,832.88,185,Cotton T-Shirt
+447,Furniture,878.76,21,Recliner Sofa
+448,Food,571.94,23,Granola Bar
+449,Toys,842.77,154,Drawing Kit
+450,Food,514.47,117,Fruit Jam
+451,Electronics,139.76,200,Tablet
+452,Electronics,686.22,104,Tablet
+453,Toys,755.61,30,Drawing Kit
+454,Clothing,191.39,115,Wool Sweater
+455,Furniture,834.32,69,Dining Set
+456,Clothing,167.66,152,Cotton T-Shirt
+457,Food,497.45,74,Olive Oil
+458,Clothing,539.13,64,Leather Jacket
+459,Toys,133.08,163,Lego City Kit
+460,Clothing,159.22,150,Hoodie
+461,Electronics,505.58,39,Power Bank
+462,Toys,380.13,55,Puzzle Board
+463,Toys,834.32,7,Plush Dinosaur
+464,Toys,472.47,190,Building Blocks Set
+465,Clothing,194.97,39,Denim Shorts
+466,Electronics,242.09,148,Wireless Headphones
+467,Clothing,706.13,104,Formal Shirt
+468,Food,955.06,184,Almond Butter
+469,Furniture,882.64,96,Nightstand
+470,Furniture,216.54,194,Queen Bed Frame
+471,Furniture,114.73,143,Recliner Sofa
+472,Food,123.79,149,Protein Shake
+473,Food,599.36,34,Granola Bar
+474,Food,537.31,35,Fruit Jam
+475,Electronics,112.06,115,Wireless Headphones
+476,Toys,151.41,5,Dart Gun
+477,Food,999.78,56,Organic Honey
+478,Furniture,968.45,83,Wooden Coffee Table
+479,Furniture,214.05,7,Wooden Coffee Table
+480,Clothing,247.69,53,Cotton T-Shirt
+481,Toys,910.15,172,Action Figure
+482,Food,556.7,186,Granola Bar
+483,Toys,962.18,106,Building Blocks Set
+484,Food,568.31,42,Olive Oil
+485,Furniture,619.5,18,Dining Set
+486,Toys,298.12,6,Plush Dinosaur
+487,Toys,888.47,132,Plush Dinosaur
+488,Food,842.5,197,Protein Shake
+489,Food,403.68,142,Fruit Jam
+490,Toys,651.14,169,Dart Gun
+491,Food,407.3,175,Olive Oil
+492,Toys,517.57,97,Drawing Kit
+493,Clothing,868.2,53,Sports Tracksuit
+494,Toys,473.88,21,Action Figure
+495,Electronics,856.51,141,4K Smart TV
+496,Toys,964.11,194,Action Figure
+497,Clothing,474.71,143,Cotton T-Shirt
+498,Clothing,889.78,99,Leather Jacket
+499,Furniture,373.59,173,Wooden Coffee Table
+500,Furniture,102.58,84,Queen Bed Frame
+501,Electronics,176.04,193,Gaming Console
+502,Food,763.39,174,Instant Noodles
+503,Food,190.16,131,Organic Honey
+504,Clothing,945.24,145,Slim Fit Jeans
+505,Clothing,879.92,145,Denim Shorts
+506,Furniture,563.37,20,Queen Bed Frame
+507,Clothing,623.36,4,Hoodie
+508,Toys,724.91,75,Drawing Kit
+509,Toys,758.36,15,Remote Control Car
+510,Electronics,542.09,57,4K Smart TV
+511,Toys,382.06,173,Remote Control Car
+512,Electronics,919.22,27,Power Bank
+513,Furniture,141.91,20,Office Chair
+514,Toys,420.48,108,Remote Control Car
+515,Electronics,699.86,79,Tablet
+516,Food,901.96,134,Granola Bar
+517,Electronics,166.8,18,Laptop
+518,Toys,693.06,86,Building Blocks Set
+519,Electronics,538.37,49,Laptop
+520,Furniture,717.84,152,Dining Set
+521,Clothing,385.48,11,Wool Sweater
+522,Food,739.63,146,Granola Bar
+523,Furniture,262.24,35,Bookshelf
+524,Food,797.86,55,Fruit Jam
+525,Food,774.41,95,Almond Butter
+526,Electronics,952.11,28,Smartwatch
+527,Clothing,255.9,88,Sports Tracksuit
+528,Electronics,749.8,164,Wireless Headphones
+529,Electronics,390.39,109,Gaming Console
+530,Toys,353.67,24,Drawing Kit
+531,Electronics,461.44,161,Laptop
+532,Clothing,356.68,116,Wool Sweater
+533,Furniture,323.37,165,Bookshelf
+534,Electronics,791.55,141,Power Bank
+535,Clothing,729.55,16,Slim Fit Jeans
+536,Electronics,198.42,112,Power Bank
+537,Food,604.16,171,Almond Butter
+538,Electronics,397.9,73,4K Smart TV
+539,Toys,973.93,50,Drawing Kit
+540,Food,482.54,111,Fruit Jam
+541,Clothing,136.52,13,Denim Shorts
+542,Electronics,398.54,71,Smartphone
+543,Food,381.44,163,Protein Shake
+544,Food,105.07,35,Almond Butter
+545,Furniture,539,24,Office Chair
+546,Food,915.22,181,Fruit Jam
+547,Clothing,822.08,39,Denim Shorts
+548,Electronics,716.19,147,Power Bank
+549,Food,409.18,172,Olive Oil
+550,Clothing,308.77,126,Denim Shorts
+551,Furniture,408.35,174,Queen Bed Frame
+552,Electronics,210.75,173,Smartphone
+553,Toys,189.54,160,Lego City Kit
+554,Food,617.08,5,Almond Butter
+555,Food,832.59,76,Olive Oil
+556,Furniture,189.45,104,Wooden Coffee Table
+557,Clothing,401.67,134,Sports Tracksuit
+558,Furniture,210.48,82,Recliner Sofa
+559,Clothing,379.43,7,Slim Fit Jeans
+560,Electronics,847.24,15,Gaming Console
+561,Food,131.36,73,Olive Oil
+562,Toys,682.49,20,Plush Dinosaur
+563,Furniture,153.85,59,Nightstand
+564,Toys,483.89,4,Drawing Kit
+565,Toys,526.65,106,Remote Control Car
+566,Food,461.36,40,Organic Honey
+567,Food,673.65,65,Protein Shake
+568,Toys,976.3,35,Puzzle Board
+569,Electronics,340.57,44,Bluetooth Speaker
+570,Toys,648.79,7,Puzzle Board
+571,Clothing,419.48,150,Sports Tracksuit
+572,Clothing,999.55,23,Cotton T-Shirt
+573,Clothing,955.9,65,Slim Fit Jeans
+574,Clothing,184.06,88,Slim Fit Jeans
+575,Furniture,976.24,20,Nightstand
+576,Electronics,764.44,32,Gaming Console
+577,Furniture,993.11,97,Queen Bed Frame
+578,Furniture,793.86,164,Queen Bed Frame
+579,Clothing,216.04,146,Sports Tracksuit
+580,Electronics,775.42,97,4K Smart TV
+581,Electronics,753.96,161,Bluetooth Speaker
+582,Toys,250.06,69,Plush Dinosaur
+583,Furniture,777.86,82,Wooden Coffee Table
+584,Electronics,707.3,9,Bluetooth Speaker
+585,Food,995,42,Almond Butter
+586,Furniture,656.87,199,Recliner Sofa
+587,Electronics,473.15,127,Gaming Console
+588,Food,958.52,110,Protein Shake
+589,Food,665.06,132,Instant Noodles
+590,Food,413.77,174,Instant Noodles
+591,Clothing,118.94,72,Hoodie
+592,Toys,780.98,152,Puzzle Board
+593,Toys,207.57,72,Building Blocks Set
+594,Electronics,931.3,124,Wireless Headphones
+595,Electronics,965.25,197,Gaming Console
+596,Toys,312.78,23,Plush Dinosaur
+597,Food,201.52,107,Organic Honey
+598,Electronics,635.79,183,Power Bank
+599,Clothing,292.36,98,Cotton T-Shirt
+600,Clothing,587.66,143,Wool Sweater
+601,Toys,472.78,51,Remote Control Car
+602,Electronics,812.82,123,Smartphone
+603,Electronics,999.88,50,Gaming Console
+604,Food,511.12,175,Protein Shake
+605,Electronics,716.52,83,Smartwatch
+606,Toys,407.62,25,Remote Control Car
+607,Electronics,876.25,39,4K Smart TV
+608,Electronics,133.26,68,Laptop
+609,Clothing,544.17,174,Formal Shirt
+610,Toys,259.1,72,Building Blocks Set
+611,Furniture,259.16,119,Wooden Coffee Table
+612,Toys,579.7,106,Lego City Kit
+613,Toys,377.02,13,Lego City Kit
+614,Furniture,513.1,166,Recliner Sofa
+615,Furniture,375.09,36,Recliner Sofa
+616,Clothing,509.56,165,Leather Jacket
+617,Food,357.33,170,Protein Shake
+618,Toys,823.2,120,Action Figure
+619,Toys,602.05,109,Building Blocks Set
+620,Toys,245.29,124,Drawing Kit
+621,Toys,107.61,19,Puzzle Board
+622,Clothing,115.74,37,Cotton T-Shirt
+623,Toys,479.52,101,Action Figure
+624,Furniture,382.71,193,Recliner Sofa
+625,Furniture,335.9,85,Nightstand
+626,Electronics,660.63,39,Smartwatch
+627,Clothing,831.88,154,Hoodie
+628,Electronics,157.04,42,Bluetooth Speaker
+629,Toys,198.98,190,Lego City Kit
+630,Clothing,431.87,53,Cotton T-Shirt
+631,Clothing,497.34,195,Hoodie
+632,Food,455.71,50,Fruit Jam
+633,Food,674.77,105,Olive Oil
+634,Electronics,178.49,197,Smartphone
+635,Electronics,545.26,107,4K Smart TV
+636,Furniture,830.57,157,Wooden Coffee Table
+637,Furniture,935.61,130,Nightstand
+638,Furniture,604.34,18,Queen Bed Frame
+639,Clothing,224.58,60,Formal Shirt
+640,Toys,754.73,116,Dart Gun
+641,Electronics,816.7,142,Gaming Console
+642,Furniture,276.66,118,Bookshelf
+643,Clothing,709.75,168,Formal Shirt
+644,Food,937.46,192,Granola Bar
+645,Toys,746.96,30,Building Blocks Set
+646,Food,474.01,29,Organic Honey
+647,Food,498.49,157,Fruit Jam
+648,Toys,171.6,19,Puzzle Board
+649,Clothing,573.5,90,Cotton T-Shirt
+650,Food,822.42,110,Organic Honey
+651,Clothing,980.65,58,Hoodie
+652,Food,459.37,116,Organic Honey
+653,Furniture,491.83,40,Office Chair
+654,Toys,149.29,9,Action Figure
+655,Electronics,797.61,121,Bluetooth Speaker
+656,Toys,744.99,110,Plush Dinosaur
+657,Food,462.63,108,Protein Shake
+658,Food,738.35,159,Protein Shake
+659,Furniture,660.72,78,Queen Bed Frame
+660,Furniture,792.09,95,Dining Set
+661,Toys,382.73,143,Lego City Kit
+662,Electronics,685.74,34,Bluetooth Speaker
+663,Toys,663.06,62,Drawing Kit
+664,Electronics,181.44,74,4K Smart TV
+665,Clothing,352.86,57,Wool Sweater
+666,Food,874.18,149,Instant Noodles
+667,Clothing,240.52,103,Hoodie
+668,Toys,441.61,54,Puzzle Board
+669,Electronics,302.71,165,Power Bank
+670,Electronics,226.17,168,Tablet
+671,Clothing,222.77,20,Leather Jacket
+672,Furniture,413.16,109,Recliner Sofa
+673,Furniture,823.13,199,Dining Set
+674,Clothing,969.68,146,Leather Jacket
+675,Furniture,614.65,172,Wooden Coffee Table
+676,Electronics,671.7,184,Gaming Console
+677,Toys,800.87,17,Remote Control Car
+678,Furniture,695.62,42,Queen Bed Frame
+679,Electronics,863.49,199,Gaming Console
+680,Toys,895.65,156,Plush Dinosaur
+681,Electronics,664.94,21,Gaming Console
+682,Food,579.76,165,Protein Shake
+683,Toys,451.95,151,Action Figure
+684,Food,515.42,111,Olive Oil
+685,Furniture,410.91,48,Office Chair
+686,Furniture,484.27,59,Dining Set
+687,Electronics,909.74,128,Power Bank
+688,Clothing,975.13,112,Wool Sweater
+689,Electronics,425.38,52,Smartphone
+690,Food,298.53,17,Organic Honey
+691,Toys,170.37,38,Dart Gun
+692,Clothing,853.24,129,Slim Fit Jeans
+693,Electronics,883.6,75,Bluetooth Speaker
+694,Food,505.42,161,Protein Shake
+695,Food,588.18,95,Instant Noodles
+696,Furniture,765.84,44,Nightstand
+697,Electronics,438.27,88,Power Bank
+698,Electronics,281.34,20,Laptop
+699,Food,203.21,175,Almond Butter
+700,Electronics,311.72,69,Smartwatch
+701,Furniture,680.8,170,Wooden Coffee Table
+702,Clothing,412.92,154,Slim Fit Jeans
+703,Food,880.93,49,Protein Shake
+704,Furniture,178.79,106,Wooden Coffee Table
+705,Furniture,474.73,71,Office Chair
+706,Toys,331.27,18,Puzzle Board
+707,Clothing,898.93,102,Wool Sweater
+708,Furniture,825.59,95,Bookshelf
+709,Toys,985.88,9,Lego City Kit
+710,Toys,207.35,66,Remote Control Car
+711,Electronics,804.02,60,Laptop
+712,Furniture,213.28,108,Recliner Sofa
+713,Food,239.52,37,Instant Noodles
+714,Electronics,135.27,175,Smartphone
+715,Clothing,518.24,29,Denim Shorts
+716,Food,213.29,63,Protein Shake
+717,Food,413.52,15,Fruit Jam
+718,Toys,348.58,9,Drawing Kit
+719,Furniture,978.72,80,Office Chair
+720,Toys,692.44,66,Plush Dinosaur
+721,Toys,469.41,1,Building Blocks Set
+722,Furniture,890.61,121,Queen Bed Frame
+723,Furniture,157.46,9,Queen Bed Frame
+724,Furniture,400.83,57,Nightstand
+725,Toys,563.13,184,Building Blocks Set
+726,Furniture,148.49,148,Office Chair
+727,Furniture,231.27,121,Nightstand
+728,Food,905.54,2,Organic Honey
+729,Toys,261.66,1,Remote Control Car
+730,Furniture,929.49,74,Nightstand
+731,Toys,186.46,54,Building Blocks Set
+732,Clothing,899.39,19,Slim Fit Jeans
+733,Electronics,508.34,18,Power Bank
+734,Food,615.94,24,Instant Noodles
+735,Food,353.46,127,Instant Noodles
+736,Toys,346.01,52,Puzzle Board
+737,Furniture,542.92,20,Dining Set
+738,Toys,420.23,139,Drawing Kit
+739,Electronics,169.93,73,Gaming Console
+740,Food,418.31,188,Almond Butter
+741,Food,329.24,16,Olive Oil
+742,Electronics,864.68,141,Gaming Console
+743,Toys,854.68,181,Puzzle Board
+744,Food,227.33,6,Instant Noodles
+745,Furniture,757.06,25,Nightstand
+746,Toys,505.75,63,Action Figure
+747,Furniture,881.66,175,Queen Bed Frame
+748,Clothing,346.59,15,Formal Shirt
+749,Electronics,179.31,54,Smartphone
+750,Food,820.45,171,Almond Butter
+751,Electronics,881.52,128,Laptop
+752,Electronics,856.46,14,Power Bank
+753,Furniture,396.37,34,Queen Bed Frame
+754,Food,127.78,130,Almond Butter
+755,Clothing,225.65,20,Wool Sweater
+756,Electronics,927.43,106,Power Bank
+757,Furniture,427.66,16,Dining Set
+758,Furniture,892.19,195,Queen Bed Frame
+759,Food,982.73,158,Instant Noodles
+760,Toys,456.14,103,Dart Gun
+761,Toys,798.8,51,Dart Gun
+762,Clothing,252.2,131,Denim Shorts
+763,Furniture,445.37,77,Recliner Sofa
+764,Toys,734.66,128,Action Figure
+765,Electronics,286.4,179,4K Smart TV
+766,Clothing,387.82,121,Formal Shirt
+767,Electronics,607.44,46,Gaming Console
+768,Toys,722.09,40,Remote Control Car
+769,Furniture,421.19,29,Wooden Coffee Table
+770,Toys,439.12,151,Action Figure
+771,Clothing,198.88,145,Cotton T-Shirt
+772,Clothing,985.66,93,Cotton T-Shirt
+773,Electronics,651.01,69,Smartwatch
+774,Electronics,577.29,85,Smartwatch
+775,Clothing,290.22,66,Sports Tracksuit
+776,Electronics,539.23,151,Tablet
+777,Food,502.58,75,Instant Noodles
+778,Clothing,332.7,151,Formal Shirt
+779,Electronics,501.65,135,Tablet
+780,Toys,283.18,171,Remote Control Car
+781,Furniture,739.2,190,Recliner Sofa
+782,Food,917.91,34,Protein Shake
+783,Food,102.33,102,Fruit Jam
+784,Furniture,600.63,105,Office Chair
+785,Furniture,759.09,113,Dining Set
+786,Toys,916.48,51,Remote Control Car
+787,Furniture,422.58,172,Office Chair
+788,Food,916.44,70,Fruit Jam
+789,Toys,843,183,Lego City Kit
+790,Furniture,572.69,66,Wooden Coffee Table
+791,Toys,331.25,96,Puzzle Board
+792,Toys,687.53,58,Remote Control Car
+793,Electronics,334.5,120,Tablet
+794,Furniture,413.96,171,Bookshelf
+795,Electronics,520.29,111,Smartphone
+796,Food,548.18,61,Almond Butter
+797,Toys,270.23,166,Lego City Kit
+798,Food,724.42,156,Organic Honey
+799,Toys,992.72,185,Dart Gun
+800,Furniture,319.48,41,Office Chair
+801,Clothing,599.09,50,Wool Sweater
+802,Furniture,509.24,90,Office Chair
+803,Toys,377,90,Remote Control Car
+804,Clothing,477.8,189,Hoodie
+805,Clothing,759.45,69,Leather Jacket
+806,Furniture,473.27,191,Dining Set
+807,Food,556.09,121,Protein Shake
+808,Furniture,529.52,81,Queen Bed Frame
+809,Toys,599.71,26,Remote Control Car
+810,Food,362.07,154,Protein Shake
+811,Toys,558.73,107,Building Blocks Set
+812,Food,221.36,151,Almond Butter
+813,Electronics,767.25,180,Smartphone
+814,Food,199.83,88,Almond Butter
+815,Electronics,806.46,105,Laptop
+816,Toys,842.99,73,Building Blocks Set
+817,Furniture,117.16,116,Recliner Sofa
+818,Toys,847.76,198,Puzzle Board
+819,Furniture,683.35,132,Recliner Sofa
+820,Electronics,187.22,1,Smartwatch
+821,Furniture,998.13,134,Bookshelf
+822,Toys,653.92,184,Lego City Kit
+823,Toys,460.77,29,Plush Dinosaur
+824,Toys,896.69,131,Lego City Kit
+825,Food,137.46,128,Fruit Jam
+826,Toys,745.61,109,Remote Control Car
+827,Food,229.35,88,Almond Butter
+828,Clothing,597.25,170,Formal Shirt
+829,Electronics,186.35,137,Tablet
+830,Clothing,711.23,81,Wool Sweater
+831,Clothing,518.44,59,Wool Sweater
+832,Food,106.03,38,Protein Shake
+833,Food,164.26,42,Instant Noodles
+834,Electronics,732.74,50,Tablet
+835,Electronics,459.51,14,Power Bank
+836,Electronics,704.94,126,Tablet
+837,Toys,450.86,100,Drawing Kit
+838,Toys,425.52,173,Lego City Kit
+839,Electronics,869.42,33,Tablet
+840,Food,869.33,148,Organic Honey
+841,Clothing,927.8,162,Slim Fit Jeans
+842,Electronics,840.72,67,Laptop
+843,Electronics,214.69,84,Power Bank
+844,Clothing,159.84,67,Formal Shirt
+845,Furniture,152.58,70,Bookshelf
+846,Electronics,982.19,167,Power Bank
+847,Electronics,551.04,171,Laptop
+848,Toys,203.65,167,Action Figure
+849,Clothing,589.87,113,Denim Shorts
+850,Electronics,739.27,85,Bluetooth Speaker
+851,Electronics,185.04,115,Tablet
+852,Furniture,411.76,44,Recliner Sofa
+853,Clothing,269.04,129,Denim Shorts
+854,Electronics,977.89,97,Laptop
+855,Furniture,386.41,50,Nightstand
+856,Electronics,721.45,120,4K Smart TV
+857,Food,926.59,116,Fruit Jam
+858,Furniture,876.87,62,Dining Set
+859,Food,454.58,3,Instant Noodles
+860,Electronics,379.82,136,Wireless Headphones
+861,Furniture,828.32,48,Bookshelf
+862,Clothing,284.64,114,Denim Shorts
+863,Toys,745.59,96,Plush Dinosaur
+864,Electronics,851.76,169,Tablet
+865,Furniture,864.3,164,Office Chair
+866,Food,108.03,57,Instant Noodles
+867,Furniture,549.88,85,Wooden Coffee Table
+868,Clothing,421.83,90,Cotton T-Shirt
+869,Furniture,980.97,119,Office Chair
+870,Food,589.67,78,Almond Butter
+871,Electronics,484.7,171,Laptop
+872,Food,319.93,28,Organic Honey
+873,Food,861.07,92,Fruit Jam
+874,Food,387.43,85,Olive Oil
+875,Toys,844.08,112,Puzzle Board
+876,Electronics,902.45,187,Laptop
+877,Toys,152.36,118,Building Blocks Set
+878,Furniture,558.99,157,Wooden Coffee Table
+879,Electronics,478.34,38,Power Bank
+880,Electronics,453.8,162,Smartphone
+881,Furniture,434.32,65,Wooden Coffee Table
+882,Furniture,578.79,148,Recliner Sofa
+883,Food,217.18,26,Protein Shake
+884,Electronics,884.16,27,Power Bank
+885,Clothing,602.18,151,Wool Sweater
+886,Food,412.4,199,Instant Noodles
+887,Electronics,318.73,22,Gaming Console
+888,Furniture,654.91,175,Recliner Sofa
+889,Furniture,808.06,196,Nightstand
+890,Clothing,496.77,101,Slim Fit Jeans
+891,Electronics,986.07,67,Laptop
+892,Toys,582.01,194,Building Blocks Set
+893,Food,981.02,69,Organic Honey
+894,Electronics,966.34,82,Smartwatch
+895,Toys,639.77,98,Lego City Kit
+896,Furniture,623.2,15,Bookshelf
+897,Furniture,195.11,126,Dining Set
+898,Toys,936.35,114,Drawing Kit
+899,Toys,822.89,104,Action Figure
+900,Clothing,550.42,172,Sports Tracksuit
+901,Electronics,375.77,51,Power Bank
+902,Furniture,854.69,193,Queen Bed Frame
+903,Food,362.37,153,Instant Noodles
+904,Furniture,587.67,189,Wooden Coffee Table
+905,Electronics,278.94,145,Power Bank
+906,Toys,824.06,97,Lego City Kit
+907,Clothing,777.53,52,Leather Jacket
+908,Furniture,362.6,58,Queen Bed Frame
+909,Clothing,205.62,185,Cotton T-Shirt
+910,Toys,259.36,166,Plush Dinosaur
+911,Electronics,654.72,69,4K Smart TV
+912,Furniture,235.04,123,Office Chair
+913,Electronics,388.11,37,Smartphone
+914,Food,855.28,75,Almond Butter
+915,Electronics,173.6,108,Smartphone
+916,Toys,623.06,162,Building Blocks Set
+917,Toys,459.84,35,Building Blocks Set
+918,Food,208.28,188,Granola Bar
+919,Electronics,558.49,39,Smartwatch
+920,Toys,564.98,174,Remote Control Car
+921,Toys,440.28,118,Drawing Kit
+922,Toys,149.79,144,Action Figure
+923,Toys,286.18,88,Lego City Kit
+924,Clothing,464.25,159,Formal Shirt
+925,Furniture,349.5,14,Nightstand
+926,Clothing,244.48,47,Slim Fit Jeans
+927,Toys,538.27,160,Plush Dinosaur
+928,Electronics,457.84,107,Laptop
+929,Clothing,698.45,77,Wool Sweater
+930,Food,604.39,102,Protein Shake
+931,Furniture,252.77,17,Office Chair
+932,Electronics,718.9,124,Wireless Headphones
+933,Clothing,518.84,124,Denim Shorts
+934,Furniture,202.11,184,Bookshelf
+935,Clothing,116.61,164,Hoodie
+936,Food,663.78,117,Instant Noodles
+937,Toys,656.78,170,Puzzle Board
+938,Food,838.42,82,Granola Bar
+939,Toys,786.19,147,Action Figure
+940,Furniture,889.75,135,Bookshelf
+941,Clothing,363.18,55,Slim Fit Jeans
+942,Clothing,471.86,158,Leather Jacket
+943,Food,155.73,76,Fruit Jam
+944,Electronics,470.21,120,4K Smart TV
+945,Furniture,297.79,29,Bookshelf
+946,Toys,824.79,195,Building Blocks Set
+947,Furniture,690.64,162,Wooden Coffee Table
+948,Food,803.52,162,Protein Shake
+949,Clothing,633.23,86,Leather Jacket
+950,Toys,638.14,2,Building Blocks Set
+951,Toys,311.7,155,Puzzle Board
+952,Toys,702.84,47,Action Figure
+953,Toys,229.57,100,Building Blocks Set
+954,Furniture,348.26,57,Recliner Sofa
+955,Furniture,261.95,122,Wooden Coffee Table
+956,Food,954.56,145,Almond Butter
+957,Clothing,908.28,98,Wool Sweater
+958,Clothing,887.35,154,Hoodie
+959,Furniture,964.16,125,Wooden Coffee Table
+960,Food,651.33,138,Olive Oil
+961,Electronics,905.23,39,Gaming Console
+962,Toys,362.67,9,Remote Control Car
+963,Clothing,446.28,25,Formal Shirt
+964,Toys,520.27,148,Drawing Kit
+965,Clothing,180.46,15,Slim Fit Jeans
+966,Electronics,842.22,113,Smartphone
+967,Clothing,207.26,91,Sports Tracksuit
+968,Electronics,819.69,139,Tablet
+969,Clothing,930.03,144,Slim Fit Jeans
+970,Furniture,611.05,150,Queen Bed Frame
+971,Toys,249.31,190,Action Figure
+972,Food,493.04,152,Olive Oil
+973,Food,224.97,164,Organic Honey
+974,Clothing,207.13,146,Leather Jacket
+975,Food,780.47,148,Fruit Jam
+976,Toys,453.73,8,Plush Dinosaur
+977,Furniture,100.12,15,Office Chair
+978,Furniture,143.62,77,Dining Set
+979,Electronics,835.98,125,Wireless Headphones
+980,Food,657.73,78,Organic Honey
+981,Toys,860.06,47,Drawing Kit
+982,Food,346.3,119,Organic Honey
+983,Toys,382.89,152,Remote Control Car
+984,Electronics,655.18,47,Tablet
+985,Food,698.64,18,Fruit Jam
+986,Furniture,123.87,160,Recliner Sofa
+987,Electronics,916.49,170,Gaming Console
+988,Food,819.25,96,Organic Honey
+989,Furniture,218.68,165,Office Chair
+990,Furniture,109.29,33,Bookshelf
+991,Toys,792.25,129,Plush Dinosaur
+992,Furniture,912.59,92,Nightstand
+993,Clothing,389.89,155,Leather Jacket
+994,Food,388.72,17,Almond Butter
+995,Food,563.16,46,Instant Noodles
+996,Toys,707.1,79,Building Blocks Set
+997,Furniture,682.9,95,Wooden Coffee Table
+998,Toys,777.37,162,Action Figure
+999,Clothing,202.59,3,Leather Jacket
+1000,Toys,567.83,56,Lego City Kit

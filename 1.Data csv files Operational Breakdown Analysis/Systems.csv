@@ -1,0 +1,6 @@
+system_id,name,criticality_level
+1,System_1,Low
+2,System_2,Medium
+3,System_3,Medium
+4,System_4,High
+5,System_5,Medium
